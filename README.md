@@ -12,3 +12,6 @@
 
 ![__results___31_0](https://github.com/Ketan-Singh-2110156/cognitive_disorder_pridiction/assets/114509252/bae7ed15-2525-4d88-a352-b29a588d5712)
 
+## Brain Waves
+
+![dreamstime_m_29444815](https://github.com/Ketan-Singh-2110156/cognitive_disorder_pridiction/assets/114509252/0e0b6ea8-a0b7-4b69-b766-daee0baf37c4)
