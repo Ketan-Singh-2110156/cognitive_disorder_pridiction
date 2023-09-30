@@ -1,4 +1,5 @@
 # cognitive_disorder_pridiction
+
 ## About machine learning Model
 
 * The  model takes the input in the form of a CSV file which contains the database brain waves in Delta, Theta, Alpha, Beta and Gamma waves. Then it gives the output which is the probability of having the cognitive disorder.
